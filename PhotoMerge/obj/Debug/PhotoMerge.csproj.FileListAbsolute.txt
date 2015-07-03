@@ -1,0 +1,36 @@
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.exe.config
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.csprojResolveAssemblyReference.cache
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.PhotoMerge.resources
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.exe
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.pdb
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.exe
+c:\users\руслан\documents\visual studio 2013\Projects\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\bin\Debug\PhotoMerge.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\bin\Debug\PhotoMerge.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\bin\Debug\PhotoMerge.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.PhotoMerge.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge2\PhotoMerge\obj\Debug\PhotoMerge.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\bin\Debug\PhotoMerge.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\bin\Debug\PhotoMerge.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\bin\Debug\PhotoMerge.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.PhotoMerge.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\PhotoMerge3\PhotoMerge\obj\Debug\PhotoMerge.csproj.GenerateResource.Cache
+D:\GitHub\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.exe.config
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.exe
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.pdb
+D:\GitHub\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.exe
+D:\GitHub\PhotoMerge\PhotoMerge\bin\Debug\PhotoMerge.pdb
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.csprojResolveAssemblyReference.cache
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.PhotoMerge.resources
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.Properties.Resources.resources
+D:\GitHub\PhotoMerge\PhotoMerge\obj\Debug\PhotoMerge.csproj.GenerateResource.Cache
